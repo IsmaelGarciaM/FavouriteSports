@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FavouriteSports</string>
+    <string name="basket">Baloncesto</string>
+    <string name="americanfootball">Fútbol americano</string>
+    <string name="tennis">Tenis</string>
+    <string name="motorbike">Motociclismo</string>
+    <string name="golf">Golf</string>
+    <string name="baseball">Beisbol</string>
+    <string name="hockey">Hockey</string>
+    <string name="chess">Ajedrez</string>
+    <string name="boxing">Boxeo</string>
+    <string name="soccer">Fútbol</string>
+    <string name="title">Selecciona los deportes que te gustan y pulsa \'Aceptar\'</string>
+    <string name="btnOk">Aceptar</string>
+    <string name="search">Buscar</string>
+
+</resources>
